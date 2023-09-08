@@ -1,4 +1,5 @@
-Welcome to the repository for the "Life in Taipei" photo gallery website. This site showcases a series of photographs capturing the essence and beauty of life in Taipei.
+Welcome to the repository for the "Life in Taipei" photo gallery website. 
+This site showcases a series of photographs capturing the essence and beauty of life in Taipei.
 
 
 Features 🌟
@@ -9,6 +10,6 @@ Interactive Overlay: Clicking on any photo displays it in a larger view with an 
 Elegant Design: The site features a minimalist design with a focus on the photographs.
 
 Technologies Used 🛠️
-HTML5 for structuring the website.
-CSS3 for styling and responsive design.
-JavaScript for interactive elements.
+#HTML5 for structuring the website.
+#CSS3 for styling and responsive design.
+#JavaScript for interactive elements.
